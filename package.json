@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ginowanhumanstage/hikyaku#readme",
   "dependencies": {
-    "netlify-lambda": "^1.6.3"
+    "netlify-lambda": "^1.6.3",
+    "sendmail": "^1.6.1"
   }
 }
